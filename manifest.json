@@ -1,0 +1,19 @@
+{
+    "item": {
+        "name": "实时公交",
+        "description": "为Xiaomi Vela穿戴设备打造的基于高德地图API的实时公交客户端",
+        "preview": ["preview.png"],
+        "icon": "icon.png",
+        "source_url": "",
+        "author": [{
+            "name": "Searchstars",
+            "author_url": "https://github.com/Searchstars",
+        }]
+    },
+    "downloads": {
+        "o62": {
+            "version": "1.1",
+            "file_name": "circle_com.searchstars.rtbus.rpk"
+        },
+    }
+}
