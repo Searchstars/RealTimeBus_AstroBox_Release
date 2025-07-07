@@ -2,7 +2,7 @@
     "item": {
         "name": "实时公交",
         "description": "为Xiaomi Vela穿戴设备打造的基于高德地图API的实时公交客户端",
-        "preview": ["preview.svg"],
+        "preview": ["preview.png"],
         "icon": "icon.png",
         "source_url": "",
         "author": [{
